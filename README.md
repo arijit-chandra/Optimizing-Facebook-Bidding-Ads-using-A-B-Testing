@@ -5,7 +5,6 @@ This project analyzes Facebook advertising data to compare the effectiveness of 
 
 ## Repository Structure
 ```
-├── README.md
 ├── Optimizing Facebook's Ad Bidding.ipynb
 └── data/
     ├── control_group.csv      # Maximum bidding data
